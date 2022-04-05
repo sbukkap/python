@@ -1,0 +1,7 @@
+Correct multiple occurences of a word - ALT + F3
+
+select multiple lines and edit at once  - ctrl + alt + arrow up or down to select
+
+Search  - ctrl + T
+
+Installed highlight-select - i.e when you select a word it highlights all occurences of that word.
